@@ -44,3 +44,28 @@ sum(lista1)/len(lista1)
 round(sum(lista1)/len(lista1),3)
 
 - FIN PREGUNTA 9
+
+
+#### pregunta 10 codigo
+
+##### En la data https://github.com/sap0408/mtcars/blob/master/mtcars.csv, seleccione los 10 primeros registros y cree una lista de nombre lista1.
+
+
+lista1=["Mazda RX4", "Mazda RX4 Wag", "Datsun 710", "Hornet 4 Drive", "Hornet Sportabout", "Valiant", "Duster 360", "Merc 240D", "Merc 230", "Merc 280"]
+
+lista1[2:5]
+
+lista1.append(["gbi6", "bio1", "ikiam"])
+
+lista1[-1][-3]
+
+lista1[4]
+
+lista1.append(["gbi6", "bio1", "ikiam"])
+
+len(lista1)
+
+lista1[3]
+​
+
+- FIN PREGUNTA 10
